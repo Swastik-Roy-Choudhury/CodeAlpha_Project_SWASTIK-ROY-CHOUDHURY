@@ -1,4 +1,4 @@
-AUTHOR-SWASTIK ROY CHOUDHURY----About the Tasks,
+AUTHOR-SWASTIK ROY CHOUDHURY
 
 ## Hangman Game
 
